@@ -1,7 +1,7 @@
 # Site wide configuration
 
-title:            Site Title
-locale:           en_US
+title:            Home Page
+locale:           en_IE
 url:              
 
 
@@ -26,12 +26,12 @@ kramdown:
 
 # Site owner
 owner:
-  name: Your Name
+  name: Joss Moorkens
   avatar: bio-photo.jpg
-  bio: "Describe your self."
+  bio: "Researcher at DCU School of Computing."
   email: 
   disqus-shortname: 
-  twitter: #username
+  twitter: @jossmo
   facebook: #username
   google:
     plus: #username
