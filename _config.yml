@@ -1,6 +1,6 @@
 # Site wide configuration
 
-title:            Site Title
+title:            Home Page
 locale:           en_US
 url:              
 
@@ -26,7 +26,7 @@ kramdown:
 
 # Site owner
 owner:
-  name: Your Name
+  name: Joss Moorkens
   avatar: bio-photo.jpg
   bio: "Describe your self."
   email: 
