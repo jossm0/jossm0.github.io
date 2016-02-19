@@ -1,7 +1,7 @@
 # Site wide configuration
 
 title:            Home Page
-locale:           en_US
+locale:           en_IE
 url:              
 
 
@@ -28,10 +28,10 @@ kramdown:
 owner:
   name: Joss Moorkens
   avatar: bio-photo.jpg
-  bio: "Researcher in the ADAPT Centre in DCU."
+  bio: "Researcher at the ADAPT Centre in Dublin City University."
   email: 
   disqus-shortname: 
-  twitter: #username
+  twitter: @jossmo
   facebook: #username
   google:
     plus: #username
@@ -42,10 +42,10 @@ owner:
   bing-verify: 
   github: #username
   stackoverflow: #http://stackoverflow.com/users/123456/username
-  linkedin: #username
+  linkedin: jossmo
   xing: #username
   instagram: #username
-  lastfm: #username
+  lastfm: jossmo
   tumblr: #username
   pinterest: #username
   foursquare: #username
