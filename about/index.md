@@ -14,7 +14,9 @@ Researcher and lecturer at the ADAPT Centre in Dublin City University, working o
 <b>Contact Details</b>
 
 Postal Address: School of Computing, Dublin City University, Glasnevin, Dublin 9, Ireland.
+
 Email Address: firstname.lastname@dcu.ie 
+
 Phone: +353 1 700 6719
 
 * <a href="https://www.researchgate.net/profile/Joss_Moorkens">Researchgate</a>
