@@ -1,25 +1,21 @@
 ---
 layout: page
-title: About the Theme
-tags: [about, Jekyll, theme, responsive]
-modified: 2014-08-08T20:53:07.573882-04:00
+title: About
+tags: [about, joss]
+modified: 2016-02-19T20:53:07.573882-04:00
 comments: true
 image:
   feature: sample-image-2.jpg
   credit: WeGraphics
   creditlink: http://wegraphics.net/downloads/free-ultimate-blurred-background-pack/
 ---
+Researcher and lecturer at the ADAPT Centre in Dublin City University, working on the <a href="http://tramooc.eu">TraMOOC Project</a>. Research interests in localisation, translation technology, translation evaluation – particularly human evaluation of machine translation (MT), post-editing of MT, precarity in the translation profession, mixed-methods research, and Japanese language and culture.
 
-Minimal Mistakes is responsive Jekyll theme with large featured images and solid typography. As the name implies the styling is fairly minimal to make it easier for you to build on top of.
+Contact Details
+Postal Address: School of Computing, Dublin City University, Glasnevin, Dublin 9, Ireland.
+Email Address: firstname.lastname@dcu.ie 
+Phone: +353 1 700 6719
 
-## Minimal Mistakes is all about:
-
-* Responsive templates. Looking good on mobile, tablet, and desktop.
-* Gracefully degrading in older browsers. Compatible with Internet Explorer 8+ and all modern browsers. 
-* Minimal embellishments -- content first.
-* Optional large feature images for posts and pages.
-* Simple and clear permalink structure.
-* [Custom 404 page](http://mmistakes.github.io/minimal-mistakes/404.html) to get you started.
-* Support for Disqus Comments
-
-<a markdown="0" href="{{ site.url }}/theme-setup" class="btn">Install Minimal Mistakes Theme</a>
+* <a href="https://www.researchgate.net/profile/Joss_Moorkens">Researchgate</a>
+* <a href="https://twitter.com/Jossmo">Twitter</a>
+* <a href="https://ie.linkedin.com/in/jossmo">LinkedIn</a>
