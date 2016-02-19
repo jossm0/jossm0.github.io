@@ -11,6 +11,7 @@ image:
 ---
 Researcher and lecturer at the ADAPT Centre in Dublin City University, working on the <a href="http://tramooc.eu">TraMOOC Project</a>. Research interests in localisation, translation technology, translation evaluation – particularly human evaluation of machine translation (MT), post-editing of MT, precarity in the translation profession, mixed-methods research, and Japanese language and culture.
 
+
 <b>Contact Details</b>
 
 Postal Address: School of Computing, Dublin City University, Glasnevin, Dublin 9, Ireland.
